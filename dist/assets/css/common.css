@@ -22,3 +22,8 @@ html{background:var(--bg);color:var(--text)}body{min-height:100vh;background:var
 .loader-inner{width:min(620px,calc(100% - 52px))}.loader-brand strong{font-size:clamp(1.9rem,4vw,3.4rem);letter-spacing:-.055em;line-height:.9}.loader-track{margin-top:30px}.home-stage{padding:calc(var(--header) + 32px) 0 72px;align-items:center;background:#050505}.home-stage::before{bottom:18%}.home-stage canvas{opacity:.95}.home-stage-inner{transform:translateY(-2vh)}.home-title{font-size:clamp(4.5rem,10vw,9.6rem);line-height:.9;letter-spacing:-.065em;max-width:980px;margin-top:22px}.home-intro{max-width:980px;margin-top:48px;grid-template-columns:240px minmax(0,1fr);gap:72px;align-items:start}.home-intro p:last-child{max-width:560px}
 @media(max-width:900px){.home-intro{grid-template-columns:1fr;gap:30px}.home-title{font-size:clamp(4.2rem,15vw,7.4rem)}}
 @media(max-width:600px){.home-stage{padding:calc(var(--header) + 34px) 0 48px;align-items:center}.home-stage-inner{transform:translateY(-1vh)}.home-title{font-size:clamp(3.25rem,16.5vw,5rem);line-height:.92;letter-spacing:-.055em}.home-intro{margin-top:42px}}
+
+/* Keep the hero on the same protected content rails as every other section. */
+.home-stage-inner{width:min(calc(100% - 112px),var(--max));margin-inline:auto}
+@media(max-width:900px){.home-stage-inner{width:min(calc(100% - 48px),var(--max))}}
+@media(max-width:600px){.home-stage-inner{width:calc(100% - 40px)}}
