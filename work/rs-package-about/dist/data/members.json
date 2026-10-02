@@ -1,0 +1,6 @@
+[
+  {"name":"player-01","displayName":"PLAYER 01","role":"PLAYER","department":"Competitive Division","group":"PLAYERS","x":"#","youtube":"","twitch":"#","image":""},
+  {"name":"player-02","displayName":"PLAYER 02","role":"PLAYER","department":"Competitive Division","group":"PLAYERS","x":"#","youtube":"","twitch":"#","image":""},
+  {"name":"creator-01","displayName":"CREATOR 01","role":"CREATOR","department":"Content Division","group":"CREATORS","x":"#","youtube":"#","twitch":"","image":""},
+  {"name":"staff-01","displayName":"STAFF 01","role":"STAFF","department":"Team Operations","group":"STAFF","x":"#","youtube":"","twitch":"","image":""}
+]
