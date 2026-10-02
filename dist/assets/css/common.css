@@ -27,3 +27,7 @@ html{background:var(--bg);color:var(--text)}body{min-height:100vh;background:var
 .home-stage-inner{width:min(calc(100% - 112px),var(--max));margin-inline:auto}
 @media(max-width:900px){.home-stage-inner{width:min(calc(100% - 48px),var(--max))}}
 @media(max-width:600px){.home-stage-inner{width:calc(100% - 40px)}}
+
+/* Page titles use white type over the shared WebGL field. */
+.page-title .accent,.shop-content .accent{color:var(--text)}
+.has-webgl{position:relative;overflow:hidden;background:#050505!important}.has-webgl>#hero-canvas{position:absolute;inset:0;width:100%;height:100%;opacity:.84}.has-webgl>*:not(canvas){position:relative;z-index:1}.grid-lines.has-webgl::after{z-index:0}
