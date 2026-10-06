@@ -1,0 +1,1 @@
+@keyframes blink{50%{opacity:.25}}.live-mark{display:inline-block;width:7px;height:7px;background:var(--accent);margin-right:8px;animation:blink 2s infinite}
