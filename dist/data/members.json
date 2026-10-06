@@ -2,5 +2,7 @@
   {"name":"taichi","displayName":"TAICHI","role":"OWNER","department":"Team Owner","group":"OWNER","x":"https://x.com/TAICHI_Stream4","youtube":"https://www.youtube.com/@Z3ct_TAICHI","image":"assets/images/members/taichi.jpg"},
   {"name":"tetora","displayName":"てとーら","role":"PLAYER","department":"Competitive Division","group":"PLAYERS","x":"https://x.com/tetrafv","youtube":"","image":"assets/images/members/tetora.png"},
   {"name":"coming-soon","displayName":"ComingSoon","role":"PLAYER","department":"Competitive Division","group":"PLAYERS","x":"","youtube":"","image":""},
-  {"name":"kyutton","displayName":"きゅっとん","role":"STREAMER","department":"Streaming Division","group":"STREAMER","x":"https://x.com/Kyutton910","youtube":"https://www.youtube.com/@Kyutton910","image":"assets/images/members/kyutton.png"}
+  {"name":"kyutton","displayName":"きゅっとん","role":"STREAMER","department":"Streaming Division","group":"STREAMER","x":"https://x.com/Kyutton910","youtube":"https://www.youtube.com/@Kyutton910","image":"assets/images/members/kyutton.png"},
+  {"name":"streamer-coming-soon-01","displayName":"ComingSoon","role":"STREAMER","department":"Streaming Division","group":"STREAMER","x":"","youtube":"","image":""},
+  {"name":"streamer-coming-soon-02","displayName":"ComingSoon","role":"STREAMER","department":"Streaming Division","group":"STREAMER","x":"","youtube":"","image":""}
 ]
